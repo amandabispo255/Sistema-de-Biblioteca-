@@ -1,0 +1,51 @@
+*{
+	   font-family:verdana;
+	}
+
+#id1 {
+width: 100px;
+height: 100px;
+background: #6C7A89;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center
+}
+#id2 {
+
+width: 300px;
+height: 300px;
+background: #fff;
+}
+.campos {
+background-color:#B0E0E6;
+font: 11px georgia, sans-serif;
+color:#0033CC;
+margin-right: 20px;
+}
+.botao {
+position:absolute;
+width: 18%;
+left: 300px;
+top: 500px;
+background-color: #CC3300;
+font: 10px Arial, sans-serif;
+color: #CCFFFF;
+}
+select { 
+background-color: #B0E0E6;
+font:12px verdana, arial, helvetica, sans-serif;
+color:#003399;
+}
+
+form{ 
+display: inline-block;
+position: relative;
+background-color: #FFDEAD;
+text-align:center;
+border: 1px solid;
+font: 11px #87CEEB, sans-serif;
+color: black;
+padding-left:10px;
+
+}
